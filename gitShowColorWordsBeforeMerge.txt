@@ -1,0 +1,17 @@
+git show --color-words
+commit ed98ab22ec18ce0b2e02d1296b718558c00c52d4 (HEAD -> master, origin/master, origin/HEAD)
+Author: mvdoyle <mdoyle@truecoders.io>
+Date:   Mon Dec 2 19:09:21 2019 -0600
+
+    changed header to h1
+
+diff --git a/merging.html b/merging.html
+index ec2fdd9..39e0087 100644
+--- a/merging.html
++++ b/merging.html
+@@ -1,4 +1,4 @@
+<h3>Heading</h3><h1>Heading</h1>
+<table>
+    <tr>
+        <th>Header</th>
+

@@ -1,0 +1,6 @@
+git log --all --oneline --graph
+* ed98ab2 (HEAD -> master, origin/master, origin/HEAD) changed header to h1
+| * 15ef108 (origin/newBranch, newBranch) changed header tag
+|/  
+* fde6084 created file
+

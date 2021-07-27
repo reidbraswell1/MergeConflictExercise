@@ -1,0 +1,11 @@
+git diff --color-words master newBranch merging.html
+diff --git a/merging.html b/merging.html
+index 39e0087..a2b7790 100644
+--- a/merging.html
++++ b/merging.html
+@@ -1,4 +1,4 @@
+<h1>Heading</h1><h2>Heading</h2>
+<table>
+    <tr>
+        <th>Header</th>
+

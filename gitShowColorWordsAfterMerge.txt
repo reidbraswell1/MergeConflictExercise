@@ -1,0 +1,9 @@
+git show --color-words
+commit 706f25c9b8a290cc0d0105b517600becef545738 (HEAD -> master)
+Merge: ed98ab2 15ef108
+Author: reid <reidbras@gmail.com>
+Date:   Mon Jul 26 20:34:06 2021 -0500
+
+    Merge branch 'newBranch'
+    Accepting changes from new branch to resolve the confict and continue the merge.
+
